@@ -1,5 +1,5 @@
 <?php
-/** @package    ERCCO010101 */
+/** @package    ERCCO0101013333333 */
 
 /* GlobalConfig object contains all configuration information for the app */
 include_once("_global_config.php");
